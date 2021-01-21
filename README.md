@@ -20,7 +20,7 @@ Running the file:
 Copy your YouTube channel id, YouTube api key and Facebook GraphAPI access token and paste them on the main.py in the specified fields. To get your YouTube upload playlist id, copy the channel id  and paste it in your-upload-playlist-id.py in the specified field and run the program. It will return your channel's upload playlist id. Now copy this id and paste it in the main.py file in the specified field. If you don't want your last YouTube video to be shared change the "pre_title" variable with th exact copy of your last video title. Run the code. If you post any YouTube video now it will autometically share it to your Facebook page.
 It will be best if you upload it to any cloud platform (like Heroku) and run it 24/7.
 
->If you don't know how you can get the Youtube channel id, Youtube api key and Facebook GraphAPI token , watch [this](https://www.youtube.com) video where I fully explained it.
+>You can get the GraphAPI token from www.developers.facebook.com, the YouTube api key from www.console.developers.google.com and your channel id from www.youtube.com/account_advanced.
 
 
 ## Contributors
